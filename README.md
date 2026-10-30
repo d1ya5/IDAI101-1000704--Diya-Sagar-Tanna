@@ -9,9 +9,9 @@ ParentConnect is an AI-powered school communication chatbot designed to help par
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- **24/7 Instant Assistance**, Gives the parent with quick an accurate answers to common questions related to their children at any time without having to reach out to staff.
+- **Centralised School Information**, ParentConnect provides easy access to important updates in temrs of homework, attendance, fees, exam timetables, bus tracking, holidays, events and school notices.
+- **Efficient Parent-School Communication**, Reduces repetitive calls, emails, and messages, allowing staff to spend less time answering common enquiries and more time focusing on students.
 
 ## Screenshots
 
