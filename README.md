@@ -16,7 +16,8 @@ ParentConnect is an AI-powered school communication chatbot designed to help par
 ## Screenshots
 
 ![Screenshot](https://via.placeholder.com/800x400?text=Screenshot)
-
+<img width="1240" height="808" alt="Screenshot 2026-10-30 at 2 12 31 PM" src="https://github.com/user-attachments/assets/306ea0f9-0a1d-44fd-8630-df21a4abe533" />
+As seen above the web demo link provided through dialouge is not accsessible.
 ---
 
 Made with ❤ by [d1ya5](https://github.com/d1ya5)
