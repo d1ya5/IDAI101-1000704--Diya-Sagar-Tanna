@@ -119,6 +119,11 @@ Identifies questions about class timetables and daily schedules, including subje
 
  Note: Each entity explanation mentions the synonms that were defined as well.
 
+## Video Link-Testing
+Below is the link to a video I compiled in which I have shown me testing some of the intents, while I did test all, I have included only 7 scenarios. Aditionally, during the video I identified some issues and have shown the changed version of the chatbot as well.
+
+Link: https://canva.link/8coxwmo5ro436f9
+
 
 ## Screenshots
 - As seen below the web demo link provided through dialouge is not accsessible. Therefore I've attached a zip file of the project.
