@@ -8,7 +8,7 @@ ParentConnect is an AI-powered school communication chatbot designed to help par
 - [Screenshots](#screenshots)
 - [Intents](#intents)
 - [Entities](#entities)
-- [Video Link of testing](#video)
+- [Video Link-Testing](#VideoLink-Testing)
 
 ## Features
 
